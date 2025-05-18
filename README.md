@@ -15,6 +15,10 @@ Este repositório contém pequenos algoritmos em JavaScript que usam entrada de 
 
 ### 1. Clone o repositório (ou baixe os arquivos)
 
+```bash
+git clone https://github.com/leonardobe/lista-exercicio-1.git
+```
+
 ### 2. Instale a biblioteca `prompt-sync`
 
 ```bash
@@ -46,11 +50,10 @@ node exercicio-15.js
 ## ⚠️ Observações
 
 - Os scripts **devem ser executados pelo terminal**, e não em navegador.
-- Todos usam `prompt-sync` para entrada de dados interativa.
+-  A maioria dos arquivos utiliza `prompt-sync` para entrada de dados interativa.
 
 ---
 
 ## ✍️ Autor
 
 Feito por **Leonardo Curtis** para fins de estudo e prática de lógica de programação com Node.js e Javascript.
-```
