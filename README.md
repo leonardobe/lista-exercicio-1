@@ -1,8 +1,3 @@
-Perfeito! Agora entendi exatamente o que você precisa: **um arquivo `README.md` em que tudo esteja visivelmente formatado no Markdown como na prévia do GitHub**, com blocos de código claros e bem organizados.
-
-Segue abaixo o conteúdo completo do `README.md` — formatado **100% em Markdown**, pronto para copiar e colar no seu repositório:
-
-```markdown
 # 🧠 Exercícios de Lógica com JavaScript
 
 Este repositório contém pequenos algoritmos em JavaScript que usam entrada de dados pelo terminal com o pacote [`prompt-sync`](https://www.npmjs.com/package/prompt-sync).
